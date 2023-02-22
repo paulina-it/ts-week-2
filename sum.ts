@@ -1,5 +1,5 @@
 let random1 = 39;
-let random2 = '18';
+var random2 = '18';
 
 function makeSum(n1, n2) {
     if (n1.type === "number" && n2.type === "number") {
